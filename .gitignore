@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-docker.env
+Bahruz/docker.env
 .venv
 env/
 venv/
